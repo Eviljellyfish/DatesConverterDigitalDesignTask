@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DigitalDesignTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DigitalDesignTask_jar</output-path>
+    <root id="archive" name="DigitalDesignTask.jar">
+      <element id="module-output" name="DigitalDesignTask" />
+    </root>
+  </artifact>
+</component>
